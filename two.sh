@@ -1,4 +1,4 @@
-chmod +x * && ./one.sh
+clear && chmod +x * && ./one.sh
 echo "====================================="
 echo "Bismillahirahmannirrahim"
 echo "====================================="
